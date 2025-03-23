@@ -13,20 +13,23 @@ Grandes telas: acima de 1200px
     div {
         width: 80vw;
         height: 60vh;
-        margin-top: 50px;
+        margin-top: 110px;
+        margin-left: 0.1vw;
         background-size: cover;
-        background-repeat: n;
+        margin-right:0px;
         background-position: center center;
     }
     section {
+
         width: 25vw;
         height: 530px;
         margin-top: -0.01vw;
-        margin-left: 565px;
+        margin-left: 52vw;
         border-top-right-radius: 10px;
+        
     }
     input{
-        width: 175px;
+        width: 16vw;
     }
 }
 
